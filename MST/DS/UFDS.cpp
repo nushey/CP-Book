@@ -29,6 +29,5 @@ class UFDS{
             setSize[y] += setSize[x];
             --numSets;
         }
-
 };
 
